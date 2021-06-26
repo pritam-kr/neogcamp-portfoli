@@ -1,0 +1,29 @@
+#reading-section .blog-heading{
+    font-size: 3rem;
+    font-weight: 300;
+}
+ .sub-heading{
+    font-size: 1.8rem;
+    font-weight: 300;
+    margin: 10px 0;
+}
+.read-more{
+    text-decoration: none;
+
+}
+.timing{
+    color: rgba(0, 0, 0, 0.363);
+}
+#reading-section p{
+    margin-bottom: 10px;
+    color:rgba(0, 0, 0, 0.705);
+}
+ul li{
+    list-style-type: none;
+    padding-left: 10px;
+    color:rgba(0, 0, 0, 0.705);
+}
+.blog-img{
+    width: 50vw;
+    margin: 10px 0;
+}
