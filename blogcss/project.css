@@ -44,6 +44,28 @@
     color: #fff;
     font-weight: 600;
 }
+/* #footer-section{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgb(20, 4, 92);
+    border-top-right-radius: 25px;
+    color: #fff;
+}
+#footer-section p{
+    font-weight: 300;
+}
+#footer-section .contact-icon ul li a{
+    cursor: pointer;
+    color: #fff !important;
+}
+#footer-section ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 10px;
+} */
 @media (max-width: 668px){
     .projects-box{
         display: grid;

@@ -149,7 +149,7 @@
 
 
 /*--------------Fotter-------------*/
-#footer-section{
+ #footer-section{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -161,15 +161,6 @@
 }
 #footer-section p{
     font-weight: 300;
-}
-#footer-section i{
-    cursor: pointer;
-    color: #fff;
-}
-#footer-section ul li{
-    display: inline-block;
-    list-style-type: none;
-    padding: 0 10px;
 }
 
 
@@ -217,5 +208,23 @@
         width: 100%;
         border-radius: 5px;
         border: solid 0.5px rgba(0, 0, 0, 0.144);
+    }
+}
+/*------contact-----------------*/
+
+#contact-section{
+    background-color: #F1F1F1;
+}
+#contact-section .contact-icon ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.blog-list{
+    padding: 0 10px 30px 10px;
+}
+@media (max-width: 668px){
+    .blog-list{
+        padding: 0 20px 30px 20px;
     }
 }
