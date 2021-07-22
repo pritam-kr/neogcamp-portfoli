@@ -111,6 +111,22 @@
     border-radius: 5px;
     border: solid 0.5px rgba(0, 0, 0, 0.144);
 }
+
+.view-btn-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.view-btn-container button{
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 0.5px solid var(--primary-color);
+    color: #fff;
+    cursor: pointer;
+}
 .box h5{
     font-size: 1rem;
     font-weight: 300;
