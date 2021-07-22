@@ -31,7 +31,7 @@ const project = [
   {
     id: "1",
     projectName: "Pirate speak translator",
-    projectDes: "About An application that can translate your English language into a pirate language.",
+    projectDes: " An application that can translate your English language into a pirate language.",
     liveLink: "https://pirate-translator-by-pritam.netlify.app/",
     gitLink: "https://github.com/pritam-kr/pirate-speak-translator",
   },
