@@ -58,10 +58,38 @@ const project = [
   },
   {
     id: "1",
-    projectName: "Palindrome birthdaye",
+    projectName: "Palindrome birthday",
     projectDes: "Built an app using ReactJS to check if entered birthdate is Palindrome. If it is not a palindrome, then it will show the nearest palindrome date and by how many days it got missed.",
     liveLink: "https://palindrome-with-js-by-pritam.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Palindrome_with_JS",
+  },
+  {
+    id: "1",
+    projectName: "Triangle",
+    projectDes: "A triangle web app using HTML, CSS, and VanilaJS. That can find the area of triangle and quizzes on the triangle.",
+    liveLink: "https://triangle-app-by-pritam.netlify.app/index.html",
+    gitLink: "https://github.com/pritam-kr/Triangle",
+  },
+  {
+    id: "1",
+    projectName: "Is your birth date is lucky?",
+    projectDes: "A vanilaJs application to know how lucky your birth date is?",
+    liveLink: "https://wizardly-nobel-ae8892.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Lucky_birthday",
+  },
+  {
+    id: "1",
+    projectName: "Cash manager",
+    projectDes: "This app takes input as bill amount and cash given by customer, and shows output of number of notes to return.",
+    liveLink: "https://elastic-morse-c51461.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Cash-manager",
+  },
+  {
+    id: "1",
+    projectName: "Stock! profit and loss",
+    projectDes: "An application that can tell you your loss and profit on the share market.",
+    liveLink: "https://dreamy-swanson-2de3d4.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Stock",
   }
 ];
 
