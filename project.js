@@ -56,6 +56,13 @@ const project = [
     liveLink: "https://csb-325r7.netlify.app/",
     gitLink: "https://github.com/pritam-kr/my-movies",
   },
+  {
+    id: "1",
+    projectName: "Palindrome birthdaye",
+    projectDes: "Built an app using ReactJS to check if entered birthdate is Palindrome. If it is not a palindrome, then it will show the nearest palindrome date and by how many days it got missed.",
+    liveLink: "https://palindrome-with-js-by-pritam.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Palindrome_with_JS",
+  }
 ];
 
 var box = "";
