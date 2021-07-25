@@ -39,7 +39,7 @@ const project = [
     id: "1",
     projectName: "Emoji emotions",
     projectDes: "This app is my first react app using code sandbox. So. This app will help you to understand your emoji emotions.",
-    liveLink: "https://csb-j1szl.netlify.app/",
+    liveLink: "https://csb-t1k4t.netlify.app/",
     gitLink: "https://github.com/pritam-kr/emoji-emotions",
   },
   {
