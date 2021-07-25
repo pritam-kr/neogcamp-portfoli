@@ -72,7 +72,7 @@ const project = [
   },
   {
     id: "1",
-    projectName: "Is your birth date is lucky?",
+    projectName: "Is your birth date lucky?",
     projectDes: "A vanilaJs application to know how lucky your birth date is?",
     liveLink: "https://wizardly-nobel-ae8892.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Lucky_birthday",
