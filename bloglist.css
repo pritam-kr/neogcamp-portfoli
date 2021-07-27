@@ -1,0 +1,24 @@
+.blog-box {
+  padding: 15px;
+  border: 1px solid #0d74d40a;
+  background-color: #0d74d40a;
+  margin: 10px;
+}
+.blog-box p {
+  margin-bottom: 10px;
+}
+.blog-box button {
+  max-width: 100%;
+  margin-right: 10px;
+  background: rgb(7, 142, 231);
+  padding: 10px 16px;
+  text-align: center;
+  cursor: pointer;
+  border: 0;
+  transition: 0.5s all;
+  color: #fff;
+}
+
+.blog-box button:hover {
+    background-color: rgb(7, 101, 163);
+  }
