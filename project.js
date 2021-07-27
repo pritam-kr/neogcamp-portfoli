@@ -97,6 +97,13 @@ const project = [
     projectDes: "Check your string is palindrome or not?",
     liveLink: "https://infallible-saha-f826c6.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Check_palindrome_string",
+  },
+  {
+    id: "1",
+    projectName: "Covid tracker",
+    projectDes: "Covid tracker web app usig javaScript and API",
+    liveLink: "https://pritam-kr.github.io/Covid_tracker/",
+    gitLink: "https://github.com/pritam-kr/Covid_tracker",
   }
 ];
 
