@@ -90,6 +90,13 @@ const project = [
     projectDes: "An application that can tell you your loss and profit on the share market.",
     liveLink: "https://dreamy-swanson-2de3d4.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Stock",
+  },
+  {
+    id: "1",
+    projectName: "Check palindrome",
+    projectDes: "Check your string is palindrome or not?",
+    liveLink: "https://infallible-saha-f826c6.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Check_palindrome_string",
   }
 ];
 
