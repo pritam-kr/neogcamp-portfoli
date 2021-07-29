@@ -130,6 +130,13 @@ const project = [
     projectDes: "A web app which show your github profile.",
     liveLink: "https://pritam-kr.github.io/github-profile-card/",
     gitLink: "https://github.com/pritam-kr/github-profile-card",
+  },
+  {
+    id: "1",
+    projectName: "Leap year",
+    projectDes: "know leap year by just putting year",
+    liveLink: "https://admiring-nightingale-b138b3.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Leap_year",
   }
 ];
 
