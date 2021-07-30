@@ -137,6 +137,13 @@ const project = [
     projectDes: "know leap year by just putting year",
     liveLink: "https://admiring-nightingale-b138b3.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Leap_year",
+  },
+  {
+    id: "1",
+    projectName: "Prime number",
+    projectDes: "Is your birth day a prime number?",
+    liveLink: "https://brave-fermat-03180c.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Prime_Number",
   }
 ];
 
