@@ -28,6 +28,11 @@ const blogs = [
     heading: "How well do you know my friend?",
     des: "A game built using CLI with JavaScript language for fun. The game asks you some basics questions about me. ",
     link: "https://pritamkumar.hashnode.dev/how-well-do-you-know-my-friend",
+  },
+  {
+    heading: "Arrow function in javaScript",
+    des: "One of these syntaxes was Arrow Function. Arrow function syntax introduces new ways to write a function. ",
+    link: "https://pritamkumar.hashnode.dev/arrow-function-in-javascript",
   }
 ];
 
