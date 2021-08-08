@@ -33,6 +33,11 @@ const blogs = [
     heading: "Arrow function in javaScript",
     des: "One of these syntaxes was Arrow Function. Arrow function syntax introduces new ways to write a function. ",
     link: "https://pritamkumar.hashnode.dev/arrow-function-in-javascript",
+  },
+  {
+    heading: "Profit or loss on your stock?",
+    des: "An application that can tell you your loss and profit on the share market. But make sure that, your profit and loss is more than 50% of the money. ",
+    link: "https://pritamkumar.hashnode.dev/profit-or-loss-on-your-stock",
   }
 ];
 
