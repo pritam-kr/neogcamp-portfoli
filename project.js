@@ -68,8 +68,8 @@ const project = [
     projectName: "Palindrome birthday",
     projectDes:
       "Built an app using ReactJS to check if entered birthdate is Palindrome. If it is not a palindrome, then it will show the nearest palindrome date and by how many days it got missed.",
-    liveLink: "https://palindrome-with-js-by-pritam.netlify.app/",
-    gitLink: "https://github.com/pritam-kr/Palindrome_with_JS",
+    liveLink: "https://flamboyant-wilson-ca77c3.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Is_your_birthday_is_palindrome",
   },
   {
     id: "1",
