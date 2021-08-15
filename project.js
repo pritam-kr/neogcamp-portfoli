@@ -12,7 +12,7 @@ const project = [
     projectName: "Marvel quiz",
     projectDes:
       "A quiz application on CLI. It asks some questions about MARVEL TV SERIES.",
-    liveLink: "https://replit.com/@pritamkr/Marvel-quiz",
+    liveLink: "https://replit.com/@pritamkr/MarvelQuizs#index.js",
     gitLink: "https://github.com/pritam-kr/MarvelQuizs",
   },
   {
