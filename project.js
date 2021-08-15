@@ -51,7 +51,7 @@ const project = [
     projectName: "Book recommendation app",
     projectDes:
       "An application that can show you the best books on specific topics, also it'll show you the rating of these books. It is built on code sandbox.",
-    liveLink: "https://csb-j30gy.netlify.app/",
+    liveLink: "https://csb-pfvhx.netlify.app/",
     gitLink: "https://github.com/pritam-kr/my-favorite-book-with-react",
   },
   {
