@@ -4,8 +4,7 @@ const project = [
     projectName: "How well do you know?",
     projectDes:
       "A game built using CLI with JavaScript language for fun. The game asks you some basics questions about me.",
-    liveLink:
-      "https://replit.com/@pritamkr/How-well-do-you-know-my-friend#index.js",
+    liveLink: "https://replit.com/@pritamkr/How-well-you-know-me#index.js",
     gitLink: "https://github.com/pritam-kr/you-know-me",
   },
   {
