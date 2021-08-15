@@ -157,3 +157,5 @@ project.forEach((el) => {
       `;
   document.querySelector(".project-list").innerHTML = box;
 });
+
+
