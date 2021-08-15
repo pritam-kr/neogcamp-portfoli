@@ -59,7 +59,7 @@ const project = [
     projectName: "My favorite movies",
     projectDes:
       "This is a simple movie list app when you click on specific tags such as Comedy, Horror, Action. It will show to all movies related to these tags.",
-    liveLink: "https://csb-sg8sk.netlify.app/",
+    liveLink: "https://csb-ein4f.netlify.app/",
     gitLink: "https://github.com/pritam-kr/my-movies",
   },
   {
