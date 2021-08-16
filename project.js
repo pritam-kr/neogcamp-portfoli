@@ -132,17 +132,24 @@ const project = [
   },
   {
     id: "1",
-    projectName: "Leap year",
+    projectName: "Leap year (Bonus)",
     projectDes: "know leap year by just putting year",
     liveLink: "https://admiring-nightingale-b138b3.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Leap_year",
   },
   {
     id: "1",
-    projectName: "Prime number",
+    projectName: "Prime number (Bonus)",
     projectDes: "Is your birth day a prime number?",
     liveLink: "https://brave-fermat-03180c.netlify.app/",
     gitLink: "https://github.com/pritam-kr/Prime_Number",
+  },
+  {
+    id: "1",
+    projectName: "Stock: profit or loss indicater (Bonus)",
+    projectDes: "Check stock's profit or loss with real time current price using API.",
+    liveLink: "https://angry-thompson-a501dc.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Stock_profit_loass_indicator",
   }
 ];
 
@@ -158,4 +165,7 @@ project.forEach((el) => {
   document.querySelector(".project-list").innerHTML = box;
 });
 
+
+
+ 
 
