@@ -65,3 +65,4 @@ blogs.forEach((el) => {
     `
     document.querySelector('.blog-list').innerHTML = post;
 });
+
