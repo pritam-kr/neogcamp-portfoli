@@ -43,6 +43,11 @@ const blogs = [
     heading: "Difference between function declaration and function expression?",
     des: "Function declaration The first difference is name, when you create a function with a name, that is a function declaration( not an anonymous function).",
     link: "https://pritamkumar.hashnode.dev/difference-between-function-declaration-and-function-expression",
+  },
+  {
+    heading: "Part1: JavaScript Array",
+    des: "Basically! JavaScript array is a collection of data (elements in all types of, such that string, number, boolean, an array).",
+    link: "https://pritamkumar.hashnode.dev/part1-javascript-array",
   }
 ];
 
