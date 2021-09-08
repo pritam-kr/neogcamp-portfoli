@@ -10,11 +10,6 @@ const blogs = [
     link: "https://neogcamp-portfolio-of-pritam.netlify.app/javascript.html",
   },
   {
-    heading: "JavaScript array",
-    des: "Arrays are list-like objects whose prototype has methods to perform traversal and mutation operations. Neither the length of a JavaScript array nor the types of its elements are fixed. ",
-    link: "https://javascript.info/intro",
-  },
-  {
     heading: "Check your string is palindrome or not?",
     des: "What is a palindrome? If a string read the same from forward or backward. Example:- madam, dad, pop, radar, etc.  ",
     link: "https://pritamkumar.hashnode.dev/check-your-string-is-palindrome-or-not",
