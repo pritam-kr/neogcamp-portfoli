@@ -72,12 +72,20 @@ const project = [
   },
   {
     id: "1",
-    projectName: "Palindrome birthday",
+    projectName: "Cash manager",
     projectDes:
-      "Built an app using VanilajS to check your birthdate is Palindrome or not, If it is not a palindrome, then it will show the nearest palindrome date and by how many days it got missed.",
-    liveLink: "https://flamboyant-wilson-ca77c3.netlify.app/",
-    gitLink: "https://github.com/pritam-kr/Is_your_birthday_is_palindrome",
-    mark: '#markThirteen'
+      "This app takes input as bill amount and cash given by customer, and shows output of number of notes to return.",
+    liveLink: "https://elastic-morse-c51461.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Cash-manager",
+    mark: '#markTen'
+  },
+  {
+    id: "1",
+    projectName: "Is your birth date lucky?",
+    projectDes: "A vanilaJs application to know how lucky your birth date is?",
+    liveLink: "https://wizardly-nobel-ae8892.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Lucky_birthday",
+    mark: '#markEleven'
   },
   {
     id: "1",
@@ -90,20 +98,12 @@ const project = [
   },
   {
     id: "1",
-    projectName: "Is your birth date lucky?",
-    projectDes: "A vanilaJs application to know how lucky your birth date is?",
-    liveLink: "https://wizardly-nobel-ae8892.netlify.app/",
-    gitLink: "https://github.com/pritam-kr/Lucky_birthday",
-    mark: '#markEleven'
-  },
-  {
-    id: "1",
-    projectName: "Cash manager",
+    projectName: "Palindrome birthday",
     projectDes:
-      "This app takes input as bill amount and cash given by customer, and shows output of number of notes to return.",
-    liveLink: "https://elastic-morse-c51461.netlify.app/",
-    gitLink: "https://github.com/pritam-kr/Cash-manager",
-    mark: '#markTen'
+      "Built an app using VanilajS to check your birthdate is Palindrome or not, If it is not a palindrome, then it will show the nearest palindrome date and by how many days it got missed.",
+    liveLink: "https://flamboyant-wilson-ca77c3.netlify.app/",
+    gitLink: "https://github.com/pritam-kr/Is_your_birthday_is_palindrome",
+    mark: '#markThirteen'
   },
   {
     id: "1",
