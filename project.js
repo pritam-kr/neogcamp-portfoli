@@ -24,7 +24,7 @@ const project = [
       "Built a web portfolio using only HTML and CSS and hosted on netlify.",
     liveLink: "https://neogcamp-portfolio-of-pritam.netlify.app/",
     gitLink: "https://github.com/pritam-kr/neogcamp-portfoli",
-    mark: '#markFour + #markFive'
+    mark: '#markThree + #markFour + #markFive'
   },
   {
     id: "1",
